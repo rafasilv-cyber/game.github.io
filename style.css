@@ -1,0 +1,19 @@
+@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    max-width: 1400px;
+    margin: auto;
+    padding: 0 4%;
+}
+
+body{
+    background: linear-gradient(#2c3156 , #1b1a33);
+    overflow-y: hidden;
+}
